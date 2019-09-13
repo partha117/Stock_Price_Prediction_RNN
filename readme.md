@@ -1,0 +1,1 @@
+Stock price prediction from news headline using RNN
